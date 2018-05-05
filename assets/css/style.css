@@ -131,6 +131,10 @@ footer{
   clear: both;
   font-size: 15px;
   height: 70px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%; 
 }
   
 /* Social media */
