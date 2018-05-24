@@ -67,7 +67,7 @@
     position: fixed;
     z-index: 99;
     width: 100%;
-    margin: 0 0 30px;
+    margin: 0 auto;
     overflow: auto;
     border-bottom: 2px solid #ccc;
   }
@@ -87,7 +87,7 @@
 
   nav{
     float: right;
-    margin-top: 25px;
+    height: 104.77px;
   }
 
   nav a{
@@ -149,8 +149,9 @@ footer{
   text-align: center;
 }
 
-h3,
-.social-media h2{
+h2, h3,
+.social-media 
+{
   padding-bottom: 20px;
   margin-bottom: 15px;
   line-height: 22px;
@@ -207,11 +208,7 @@ h3,
   margin: 10px;
   border-radius: 50%;
   border: white 1px;
-   float: left;
-  width: 200px;
-  height: auto;
-  margin-top: 10px;
-  margin-right: 25px;
+ padding: 2px;
 }
 
 /* Main page */
@@ -280,8 +277,15 @@ h3,
   border-bottom: 0;
 }
 
-/* Media query with max-width: 980px. */
+.profile-image {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
+}
 
+/* Media query with max-width: 980px. */
 @media only screeen and (max-width: 980px){
   .content-wrap {
     padding: 0 20px;
