@@ -2,7 +2,7 @@
 
 This is my professional portfolio with a mobile-responsive layout using HTML and CSS.
 
-## Authors
+## Author
 
 * **Cristina Defoe** 
 
