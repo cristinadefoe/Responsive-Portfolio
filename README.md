@@ -4,10 +4,9 @@ This is my professional portfolio with a mobile-responsive layout using HTML and
 
 ## Author
 
-* **Cristina Defoe** 
+* **Cristina Defoe** - (https://github.com/cristinadefoe)
 
 ## Acknowledgments
 
 * Thanks to anyone's code that was used as inspiration.
-
 
